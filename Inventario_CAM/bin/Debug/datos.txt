@@ -1,0 +1,6 @@
+localhost
+cam
+root
+
+3306
+Microsoft Print to PDF

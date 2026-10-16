@@ -1,0 +1,12 @@
+C:\Users\rm990\Downloads\Inventario_CAM\Inventario_CAM\capaidentidad\bin\Debug\capaidentidad.dll
+C:\Users\rm990\Downloads\Inventario_CAM\Inventario_CAM\capaidentidad\bin\Debug\capaidentidad.pdb
+C:\Users\rm990\Downloads\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.csproj.AssemblyReference.cache
+C:\Users\rm990\Downloads\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.csproj.CoreCompileInputs.cache
+C:\Users\rm990\Downloads\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.dll
+C:\Users\rm990\Downloads\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.pdb
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Inventario_CAM\capaidentidad\bin\Debug\capaidentidad.dll
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Inventario_CAM\capaidentidad\bin\Debug\capaidentidad.pdb
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.csproj.AssemblyReference.cache
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.csproj.CoreCompileInputs.cache
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.dll
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Inventario_CAM\capaidentidad\obj\Debug\capaidentidad.pdb

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassConectar\ClassConectar.csproj" />
+    <ProjectReference Include="..\Inventario_CAM\capaidentidad\capaidentidad.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\Inventario_CAM\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

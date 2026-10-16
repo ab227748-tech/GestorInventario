@@ -1,0 +1,51 @@
+C:\Users\Pablo\documents\visual studio 2010\Projects\IMPLRESIONES  ITSSY\Funciones\bin\Debug\Funciones.dll
+C:\Users\Pablo\documents\visual studio 2010\Projects\IMPLRESIONES  ITSSY\Funciones\bin\Debug\Funciones.pdb
+C:\Users\Pablo\documents\visual studio 2010\Projects\IMPLRESIONES  ITSSY\Funciones\obj\Debug\Funciones.dll
+C:\Users\Pablo\documents\visual studio 2010\Projects\IMPLRESIONES  ITSSY\Funciones\obj\Debug\Funciones.pdb
+C:\Users\orlando\Documents\Visual Studio 2010\Projects\CentroDeCopiadoITSSY\Funciones\bin\Debug\Funciones.dll
+C:\Users\orlando\Documents\Visual Studio 2010\Projects\CentroDeCopiadoITSSY\Funciones\bin\Debug\Funciones.pdb
+C:\Users\orlando\Documents\Visual Studio 2010\Projects\CentroDeCopiadoITSSY\Funciones\obj\Debug\Funciones.dll
+C:\Users\orlando\Documents\Visual Studio 2010\Projects\CentroDeCopiadoITSSY\Funciones\obj\Debug\Funciones.pdb
+C:\Users\orlando\Documents\Visual Studio 2010\Projects\CentroDeCopiadoITSSY\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\orlando\documents\visual studio 2012\Projects\Ejemplo4AS\Funciones\bin\Debug\Funciones.dll
+C:\Users\orlando\documents\visual studio 2012\Projects\Ejemplo4AS\Funciones\bin\Debug\Funciones.pdb
+C:\Users\orlando\documents\visual studio 2012\Projects\Ejemplo4AS\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\orlando\documents\visual studio 2012\Projects\Ejemplo4AS\Funciones\obj\Debug\Funciones.dll
+C:\Users\orlando\documents\visual studio 2012\Projects\Ejemplo4AS\Funciones\obj\Debug\Funciones.pdb
+C:\Users\orlando\Documents\Visual Studio 2012\Projects\ControlEscolar\Funciones\bin\Debug\Funciones.dll
+C:\Users\orlando\Documents\Visual Studio 2012\Projects\ControlEscolar\Funciones\bin\Debug\Funciones.pdb
+C:\Users\orlando\Documents\Visual Studio 2012\Projects\ControlEscolar\Funciones\obj\Debug\Funciones.dll
+C:\Users\orlando\Documents\Visual Studio 2012\Projects\ControlEscolar\Funciones\obj\Debug\Funciones.pdb
+C:\Users\JuanBautista\Desktop\FormularioLlenadoBD\Funciones\bin\Debug\Funciones.dll
+C:\Users\JuanBautista\Desktop\FormularioLlenadoBD\Funciones\bin\Debug\Funciones.pdb
+C:\Users\JuanBautista\Desktop\FormularioLlenadoBD\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\JuanBautista\Desktop\FormularioLlenadoBD\Funciones\obj\Debug\Funciones.dll
+C:\Users\JuanBautista\Desktop\FormularioLlenadoBD\Funciones\obj\Debug\Funciones.pdb
+C:\Users\JuanBautista\Desktop\4 y 5 semestre\FormularioLlenadoBD\Funciones\bin\Debug\Funciones.dll
+C:\Users\JuanBautista\Desktop\4 y 5 semestre\FormularioLlenadoBD\Funciones\bin\Debug\Funciones.pdb
+C:\Users\JuanBautista\Desktop\4 y 5 semestre\FormularioLlenadoBD\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\JuanBautista\Desktop\4 y 5 semestre\FormularioLlenadoBD\Funciones\obj\Debug\Funciones.dll
+C:\Users\JuanBautista\Desktop\4 y 5 semestre\FormularioLlenadoBD\Funciones\obj\Debug\Funciones.pdb
+C:\Users\JuanBautista\Desktop\6 semestre\ingenieria de software\actividadZeneFormulario\Funciones\bin\Debug\Funciones.dll
+C:\Users\JuanBautista\Desktop\6 semestre\ingenieria de software\actividadZeneFormulario\Funciones\bin\Debug\Funciones.pdb
+C:\Users\JuanBautista\Desktop\6 semestre\ingenieria de software\actividadZeneFormulario\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\JuanBautista\Desktop\6 semestre\ingenieria de software\actividadZeneFormulario\Funciones\obj\Debug\Funciones.dll
+C:\Users\JuanBautista\Desktop\6 semestre\ingenieria de software\actividadZeneFormulario\Funciones\obj\Debug\Funciones.pdb
+E:\Funciones\bin\Debug\Funciones.dll
+E:\Funciones\bin\Debug\Funciones.pdb
+E:\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+E:\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+E:\Funciones\obj\Debug\Funciones.dll
+E:\Funciones\obj\Debug\Funciones.pdb
+C:\Users\rm990\Downloads\Inventario_CAM\Funciones\bin\Debug\Funciones.dll
+C:\Users\rm990\Downloads\Inventario_CAM\Funciones\bin\Debug\Funciones.pdb
+C:\Users\rm990\Downloads\Inventario_CAM\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Users\rm990\Downloads\Inventario_CAM\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\rm990\Downloads\Inventario_CAM\Funciones\obj\Debug\Funciones.dll
+C:\Users\rm990\Downloads\Inventario_CAM\Funciones\obj\Debug\Funciones.pdb
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Funciones\bin\Debug\Funciones.dll
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Funciones\bin\Debug\Funciones.pdb
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Funciones\obj\Debug\Funciones.dll
+C:\Users\rm990\OneDrive\Documentos\Inventario_CAM\Funciones\obj\Debug\Funciones.pdb

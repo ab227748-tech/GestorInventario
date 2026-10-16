@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5836C620-56E3-4970-B94E-90EBD4FFFE43}|Inventario_CAM.csproj|C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5836C620-56E3-4970-B94E-90EBD4FFFE43}|Inventario_CAM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5836C620-56E3-4970-B94E-90EBD4FFFE43}|Inventario_CAM.csproj|C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5836C620-56E3-4970-B94E-90EBD4FFFE43}|Inventario_CAM.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6A368E-0ABB-4043-979A-5FB8455E78CA}|capaidentidad\\capaidentidad.csproj|C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\capaidentidad\\insertar_actualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6A368E-0ABB-4043-979A-5FB8455E78CA}|capaidentidad\\capaidentidad.csproj|solutionrelative:capaidentidad\\insertar_actualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28708E4B-EDDB-48AB-A824-4EAE4B17B2C3}|..\\Recolectar\\Recolectar.csproj|c:\\users\\ab227\\desktop\\escuela\\inventario_cam44_completo\\recolectar\\recolecta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E8242E-C9F1-4882-B46C-D25D5E1F38AF}|Datos\\Datos.csproj|C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\datos\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E8242E-C9F1-4882-B46C-D25D5E1F38AF}|Datos\\Datos.csproj|solutionrelative:datos\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6A368E-0ABB-4043-979A-5FB8455E78CA}|capaidentidad\\capaidentidad.csproj|C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\capaidentidad\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6A368E-0ABB-4043-979A-5FB8455E78CA}|capaidentidad\\capaidentidad.csproj|solutionrelative:capaidentidad\\listar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{190097A8-168C-46C6-8ADB-96CEB86FBCA6}|..\\ClassConectar\\ClassConectar.csproj|c:\\users\\ab227\\desktop\\escuela\\inventario_cam44_completo\\classconectar\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recolecta.cs",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Recolectar\\Recolecta.cs",
+              "RelativeDocumentMoniker": "..\\Recolectar\\Recolecta.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Recolectar\\Recolecta.cs",
+              "RelativeToolTip": "..\\Recolectar\\Recolecta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:39:18.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listar.cs",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\Datos\\listar.cs",
+              "RelativeDocumentMoniker": "Datos\\listar.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\Datos\\listar.cs",
+              "RelativeToolTip": "Datos\\listar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:38:58.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "listar.cs",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\capaidentidad\\listar.cs",
+              "RelativeDocumentMoniker": "capaidentidad\\listar.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\capaidentidad\\listar.cs",
+              "RelativeToolTip": "capaidentidad\\listar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:38:52.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "insertar_actualizar.cs",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\capaidentidad\\insertar_actualizar.cs",
+              "RelativeDocumentMoniker": "capaidentidad\\insertar_actualizar.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\capaidentidad\\insertar_actualizar.cs",
+              "RelativeToolTip": "capaidentidad\\insertar_actualizar.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:38:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\ClassConectar\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\ClassConectar\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\ClassConectar\\Conexion.cs",
+              "RelativeToolTip": "..\\ClassConectar\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:38:32.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwH4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T16:07:57.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ab227\\Desktop\\Escuela\\Inventario_CAM44_COMPLETO\\Inventario_CAM\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:02:10.411Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
